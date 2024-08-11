@@ -1,0 +1,54 @@
+#box{
+    width: 1000px;
+    height: 1200px;
+    display: flex;
+}
+#left{
+    background-color: blue;
+    width: 700px;
+}
+#left_1{
+    display: flex;
+    height: 400px;
+}
+#logo{
+    background-color: chartreuse;
+    width: 300px;
+}
+#main_banner{
+    background-color: chocolate;
+    width: 400px;
+}
+#left_2{
+    background-color: darkgreen;
+    display: flex;
+    height: 200px;
+}
+#menu1{
+    background-color: aquamarine;
+    width: 400px;
+}
+#menu2{
+    background-color: rgb(61, 132, 108);
+    width: 400px;
+}
+#menu3{
+    background-color: rgb(10, 100, 70);
+    width: 400px;
+}
+#left_3{
+    display: flex;
+    height: 600px;
+}
+#main_menu{
+    background-color: darkslateblue;
+    width: 600px;
+}
+#main_contents{
+    background-color: darkgoldenrod;
+    width: 600px;
+}
+#right{
+    background-color: red;
+    width: 300px;
+}

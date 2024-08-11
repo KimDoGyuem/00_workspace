@@ -1,0 +1,38 @@
+#box{
+    width: 700px;
+    background-color: black;
+}
+#top{
+    background-color: dodgerblue;
+    height: 200px;
+    display: flex;
+}
+#top_left{
+    background-color: yellow;
+    /* height: 100px; */
+    width: 200px;
+}
+#top_right{ 
+    background-color: chocolate;
+    height: 100px;
+    width: 500px;
+}
+#mid{
+    background-color: crimson;
+    height: 200px;
+}
+#bot{
+    background-color: chartreuse;
+    height: 200px;
+    display: flex;
+}
+#bot_left{
+    background-color: blueviolet;
+    /* height: 100px; */
+    width: 200px;
+}
+#bot_right{
+    background-color: darkgreen;
+    height: 100px;
+    width: 500px;
+}

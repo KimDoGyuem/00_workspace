@@ -1,0 +1,29 @@
+#ig {
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to right bottom, yellow, white);
+    /* background: linear-gradient(to bottom, yellow, white); */
+    /* background: linear-gradient(to right, yellow, white); */
+}
+#box{
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    width: 500px;
+    height: 500px;
+    background-color: brown;
+}
+#ie {
+    position: relative;
+    right: 50px;
+    top: 200px;
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(135deg, purple, white);
+}
+img{
+    width: 100px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}

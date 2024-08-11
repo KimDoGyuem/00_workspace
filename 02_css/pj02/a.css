@@ -1,0 +1,83 @@
+body{
+    background-image: url(https://upload3.inven.co.kr/upload/2024/07/04/bbs/i1580331759.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+#Layout{
+    /* background-color: aquamarine; */
+    width: 1280px;
+    margin-left: auto; 
+    margin-right: auto; 
+}
+    #inven_Left{
+        /* background-color: aqua; */
+        position: relative;
+        width: 1020px;
+        margin-top: 10px;
+    }
+        #logo{
+            margin-left: 35px;
+            margin-right: 35px;
+            margin-top: 30px;
+        }
+        #ad01{
+            float: right;
+            margin-bottom: 10px;
+        }
+        #L_top{
+            width: 1020px;
+            display: flex;
+        }
+            .topmenu{
+                background-color: rgb(51, 22, 12);
+                width: 111px;
+                height: 40px;
+                border: solid, 1px, rgb(177, 96, 38);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                color: white;
+            }
+        #L_mid{
+            width: 1020px;
+            display: flex;
+        }
+            #L_mid_left{
+                width: 196px;
+            }
+                .leftmenu{
+                height: 46px;
+                background-color: rgb(83, 43, 15);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                color: white;
+                font-weight: bold;
+                }
+                #login{
+                    height: 171px;
+                    background-color: rgb(35, 14, 3);
+                    color: white;
+                    text-align: center;
+                    font-size: 15px;
+                }
+                    #searchbox{
+                        width: 137px;
+                        height: 26px;
+                        position: relative;
+                        left: 9px;
+                        bottom: -90px;
+                    }
+                    #button{
+                        width: 32px;
+                        height: 29px;
+                        position: relative;
+                        left: 10px;
+                        bottom: -90px;
+                        margin-left: -5px;
+                    }
+    #inven_right{
+        position: absolute;
+        right: 0px;
+        width: 250px;
+    }

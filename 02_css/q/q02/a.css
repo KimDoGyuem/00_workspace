@@ -1,0 +1,17 @@
+td{
+    border: yellow solid 5px;
+}
+tr{
+    border: green solid 5px;
+}
+#ld{
+    width: 200px;
+}
+#fw{
+    width: 200px;
+}
+table{
+    width: 1000px;
+    height: 1000px;
+    margin-left: 500px;
+}
