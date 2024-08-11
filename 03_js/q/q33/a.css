@@ -1,0 +1,13 @@
+#textarea{
+    width: 200px;
+    height: 100px;
+    background-color: burlywood;
+}
+
+#screen{
+    display: flex;
+}
+
+#user_vs_com{
+    width: 50px;
+}

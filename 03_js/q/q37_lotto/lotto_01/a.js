@@ -1,0 +1,18 @@
+var r1 = Math.floor(Math.random()*45+1);
+dw(r1);
+br();
+var r2 = Math.floor(Math.random()*45+1);
+dw(r2);
+br();
+var r3 = Math.floor(Math.random()*45+1);
+dw(r3);
+br();
+var r4 = Math.floor(Math.random()*45+1);
+dw(r4);
+br();
+var r5 = Math.floor(Math.random()*45+1);
+dw(r5);
+br();
+var r6 = Math.floor(Math.random()*45+1);
+dw(r6);
+br();

@@ -1,0 +1,25 @@
+var p1 = 1;
+var p2 = 3;
+var p3 = 5;
+var p4 = 7;
+var p5 = 9;
+var p6 = 10;
+
+var r1 = Math.floor(Math.random()*45+1);
+dw(r1);
+br();
+var r2 = Math.floor(Math.random()*45+1);
+dw(r2);
+br();
+var r3 = Math.floor(Math.random()*45+1);
+dw(r3);
+br();
+var r4 = Math.floor(Math.random()*45+1);
+dw(r4);
+br();
+var r5 = Math.floor(Math.random()*45+1);
+dw(r5);
+br();
+var r6 = Math.floor(Math.random()*45+1);
+dw(r6);
+br();
