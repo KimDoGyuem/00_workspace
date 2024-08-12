@@ -1,0 +1,10 @@
+body{
+    background-color: green;
+}
+#login_box{
+    width: 300px;
+    height: 200px;
+    background-color: chocolate;
+    border: 5px solid yellow;
+    border-radius: 20px;
+}
